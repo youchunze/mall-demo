@@ -28,7 +28,7 @@
         <shiro-redis.version>3.0.0</shiro-redis.version>
         <persistence-api.version>1.0.2</persistence-api.version>
         <mapper-spring.version>2.0.0</mapper-spring.version>
-        <shiro-spring.version>1.3.2</shiro-spring.version>
+        <shiro-spring.version>1.7.0</shiro-spring.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <skipTests>true</skipTests>
